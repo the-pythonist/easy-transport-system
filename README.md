@@ -15,6 +15,7 @@ Below image shows the graph of the London Transport Network covered by *easy-tra
 
 
 Sneak Peak of the application.
+
 ![image](https://user-images.githubusercontent.com/68852419/185616143-d8664d59-51d2-43cb-a7f9-e6f31bfee963.png)
 
 ### Using the application
